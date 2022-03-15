@@ -6,9 +6,7 @@
 body{
     overflow: hidden;
     height: 100vh;
-    background: url('./images/image.jpg')no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: url('./images/image.jpg')no-repeat center/cover;
 }
 :root{
     --fisrt-color:aquamarine;
