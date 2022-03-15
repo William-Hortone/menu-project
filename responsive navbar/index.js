@@ -17,7 +17,7 @@ themeMode.addEventListener('click', (e) => {
         themeMode.src ="./images/dark1.png";
     
       else
-        themeMode.src ="./images/light.png";
+        themeMode.src ="./images/dark.png";
    
 })
  
